@@ -1,0 +1,18 @@
+
+.tamaño-16{
+    font-size: 16px;
+}
+
+.tamaño-20{
+    font-size: 20px;
+}
+
+*{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.precio-final{
+    font-weight: 500;
+}
+
